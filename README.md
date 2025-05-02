@@ -19,7 +19,7 @@ This project explores the relationship between player salaries and performance i
 - [`data/raw/merged_player_team_stats.csv`](./data/raw/merged_player_team_stats.csv): Merged dataset of player and team stats
 - [`docs/DATA_DICTIONARY.md`](./docs/DATA_DICTIONARY.md): Descriptions of dataset variables
 - [`notebooks/Project_Proposal.ipynb`](./notebooks/Project_Proposal.ipynb): Initial exploratory notebook
-- [Dataset Source](https://www.kaggle.com/datasets/fivethirtyeight/fivethirtyeight-data)
+- [Dataset Source]((https://www.premierleague.com/tables?co=1&se=418&ha=-1))
 
 ##  Dataset Source
 
