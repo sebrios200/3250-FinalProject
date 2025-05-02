@@ -1,5 +1,5 @@
 
-# 📘 Data Dictionary
+#  Data Dictionary
 
 This data dictionary describes the main variables in the soccer salary and performance dataset used in this project.
 
