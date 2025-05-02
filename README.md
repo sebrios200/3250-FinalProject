@@ -21,11 +21,15 @@ This project explores the relationship between player salaries and performance i
 - [`notebooks/Project_Proposal.ipynb`](./notebooks/Project_Proposal.ipynb): Initial exploratory notebook
 - [Dataset Source]((https://www.premierleague.com/tables?co=1&se=418&ha=-1))
 
-##  Dataset Source
+## 📌 Dataset Source
 
-Some data was inspired by scraped or downloaded sources from:
-- https://www.kaggle.com/datasets/fivethirtyeight/fivethirtyeight-data
-- Public English Premier League data (2021–2022)
+This project uses data inspired by public football statistics and performance data, including:
+
+- Official Premier League table and team standings:  
+  🔗 [Premier League Tables – 2021/22 Season](https://www.premierleague.com/tables?co=1&se=418&ha=-1)
+
+Additional player performance and salary data were compiled from public sources and statistical aggregations.
+
 
 ##  Key Questions
 
