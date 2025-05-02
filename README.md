@@ -13,7 +13,7 @@ This project explores the relationship between player salaries and performance i
 | `docs`            | Project documentation and data dictionary |
 | `src`             | Scripts and utility functions |
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [`README.md`](./README.md): Project overview and structure
 - [`data/raw/merged_player_team_stats.csv`](./data/raw/merged_player_team_stats.csv): Merged dataset of player and team stats
@@ -21,13 +21,13 @@ This project explores the relationship between player salaries and performance i
 - [`notebooks/Project_Proposal.ipynb`](./notebooks/Project_Proposal.ipynb): Initial exploratory notebook
 - [Dataset Source](https://www.kaggle.com/datasets/fivethirtyeight/fivethirtyeight-data)
 
-## 📌 Dataset Source
+##  Dataset Source
 
 Some data was inspired by scraped or downloaded sources from:
 - https://www.kaggle.com/datasets/fivethirtyeight/fivethirtyeight-data
 - Public English Premier League data (2021–2022)
 
-## 🔍 Key Questions
+##  Key Questions
 
 - Do higher-paid players perform better?
 - Are certain positions overpaid?
