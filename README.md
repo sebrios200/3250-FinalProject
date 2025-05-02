@@ -15,7 +15,7 @@ This repository provides a clean and organized starting point for data wrangling
 ##  Table of Contents
 
 - [`README.md`](./README.md): Project overview and instructions  
-- [`data:raw:data/`](./data/raw): Raw dataset files  
+- [`data:raw:data/data:raw:data`](./data/raw): Raw dataset files  
 - [`notebooks/`](./notebooks): Jupyter notebooks used in the project  
 - [`docs/DATA_DICTIONARY.md`](./docs/DATA_DICTIONARY.md): Dataset variable descriptions  
 - [`src/`](./src): Custom functions/scripts  
