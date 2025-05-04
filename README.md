@@ -1,6 +1,6 @@
 #  Data Wrangling Project: Soccer Salary and Performance Analysis
 
-This repository provides a clean and organized starting point for data wrangling projects. This example project analyzes the relationship between player salaries and performance in the English Premier League 2021–2022 season.
+This project analyzes the relationship between player salaries and performance in the English Premier League 2021–2022 season.
 
 ##  Folder Structure
 
