@@ -15,8 +15,8 @@ This repository provides a clean and organized starting point for data wrangling
 ##  Table of Contents
 
 - [`README.md`](./README.md): Project overview and instructions  
-- [`data:raw:data/data:raw:data`](./data/raw): Raw dataset files  
-- [`notebooks/`](./notebooks): Jupyter notebooks used in the project  
+- [`raw data`](./data/raw): Raw dataset files  
+- [`Jupytor/`](./notebooks): Jupyter notebooks used in the project  
 - [`docs/DATA_DICTIONARY.md`](./docs/DATA_DICTIONARY.md): Dataset variable descriptions  
 - [`src/`](./src): Custom functions/scripts  
 - 🔗 [Official Premier League Table – 2021/22 Season](https://www.premierleague.com/tables?co=1&se=418&ha=-1)
