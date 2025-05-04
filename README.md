@@ -6,9 +6,9 @@ This repository provides a clean and organized starting point for data wrangling
 
 | Folder            | Description |
 |-------------------|-------------|
-| `data/raw`        | Contains original/raw dataset files |
-| `data/cleaned`    | Cleaned or transformed datasets |
-| `notebooks`       | Jupyter Notebooks for exploration and analysis |
+| `raw data`        | Contains original/raw dataset files |
+| `clean data`    | Cleaned or transformed datasets |
+| `Jupytor`       | Jupyter Notebooks for exploration and analysis |
 | `docs`            | Documentation like data dictionaries |
 | `src`             | Scripts and helper functions |
 
