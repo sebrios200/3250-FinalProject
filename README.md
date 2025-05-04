@@ -19,12 +19,12 @@ This project analyzes the relationship between player salaries and performance i
 - [`Jupytor/`](./notebooks): Jupyter notebooks used in the project  
 - [`docs/DATA_DICTIONARY.md`](./docs/DATA_DICTIONARY.md): Dataset variable descriptions  
 - [`src/`](./src): Custom functions/scripts  
-- 🔗 [Official Premier League Table – 2021/22 Season](https://www.premierleague.com/tables?co=1&se=418&ha=-1)
+-  [Official Premier League Table – 2021/22 Season](https://www.premierleague.com/tables?co=1&se=418&ha=-1)
 
 ##  Data Source
 
 The data in this project is partially derived from the official Premier League standings and team statistics:  
-🔗 [https://www.premierleague.com/tables?co=1&se=418&ha=-1](https://www.premierleague.com/tables?co=1&se=418&ha=-1)
+[https://www.premierleague.com/tables?co=1&se=418&ha=-1](https://www.premierleague.com/tables?co=1&se=418&ha=-1)
 
 Additional data on individual player statistics and salaries was compiled from public sports databases and media sources.
 
