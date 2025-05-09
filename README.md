@@ -16,7 +16,7 @@ This project analyzes the relationship between player salaries and performance i
 - [`README.md`](./README.md): Project overview and instructions  
 - [`raw data`](./data/raw): Raw dataset files  
 - [`Jupytor/`](./notebooks): Jupyter notebooks used in the project  
-  The data dictionary can be found here: [`docs/DATA_DICTIONARY.md`](./docs/DATA_DICTIONARY.md)
+  The data dictionary can be found here: [`docs/README_with_DATA_DICTIONARY.md`](./docs/DATA_DICTIONARY.md)
 -  [Official Premier League Table – 2021/22 Season](https://www.premierleague.com/tables?co=1&se=418&ha=-1)
 
 ##  Data Source
